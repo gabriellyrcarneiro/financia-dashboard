@@ -57,15 +57,15 @@ financial-dashboard/
 
 ### Pré-requisitos
 
-- Node.js 18+ instalado
+- Node.js instalado
 - npm ou yarn
 
 ### Passo a Passo
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/financial-dashboard.git
-cd financial-dashboard
+git clone https://github.com/gabriellyrcarneiro/financia-dashboard.git
+cd financia-dashboard
 
 # 2. Instale as dependências
 npm install
@@ -90,15 +90,6 @@ npm run lint      # Verifica o código com ESLint
 ```bash
 npm run build
 ```
-
-Os arquivos otimizados serão gerados na pasta `/dist`, prontos para deploy em qualquer servidor estático (Vercel, Netlify, GitHub Pages, etc.).
-
-### Deploy na Vercel (recomendado)
-
-1. Faça push do projeto para o GitHub
-2. Acesse [vercel.com](https://vercel.com) e importe o repositório
-3. As configurações são detectadas automaticamente
-4. Clique em **Deploy** ✅
 
 ## 🎨 Design System
 
@@ -136,6 +127,4 @@ Fontes: **Syne** (títulos) + **DM Mono** (números) + **DM Sans** (corpo)
 4. Push para a branch: `git push origin feature/nova-funcionalidade`
 5. Abra um Pull Request
 
-## 📝 Licença
-
-MIT © 2025 — Feito com ❤️ e TypeScript
+ — Feito com ❤️ e TypeScript
