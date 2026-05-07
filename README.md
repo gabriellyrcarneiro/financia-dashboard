@@ -2,8 +2,6 @@
 
 Dashboard financeiro moderno para controle de receitas, despesas, orçamentos e metas pessoais. Desenvolvido com React, TypeScript e Recharts.
 
-![Preview](https://via.placeholder.com/900x500/131726/10b981?text=FinDash+Preview)
-
 ## ✨ Funcionalidades
 
 - 📊 **Visão Geral** — Saldo, receitas, despesas e taxa de poupança em tempo real
@@ -74,8 +72,6 @@ npm install
 npm run dev
 ```
 
-Acesse **http://localhost:5173** no navegador.
-
 ### Scripts Disponíveis
 
 ```bash
@@ -104,27 +100,6 @@ O projeto usa um tema dark luxury com as seguintes variáveis CSS:
 --indigo:   #6366f1   /* Item ativo / destaque */
 --amber:    #f59e0b   /* Alertas de orçamento */
 ```
-
-Fontes: **Syne** (títulos) + **DM Mono** (números) + **DM Sans** (corpo)
-
-## 📦 Próximos Passos / Roadmap
-
-- [ ] Integração com backend / API REST
-- [ ] Autenticação com JWT
-- [ ] Persistência de dados com banco de dados
-- [ ] Adicionar / editar / remover transações via formulário
-- [ ] Filtros por período nas transações
-- [ ] Modo claro (light theme)
-- [ ] Exportar relatório em PDF
-- [ ] Página de Metas financeiras
-- [ ] Notificações de limite de orçamento
-
-## 🤝 Contribuindo
-
-1. Fork o projeto
-2. Crie uma branch: `git checkout -b feature/nova-funcionalidade`
-3. Commit suas mudanças: `git commit -m 'feat: adiciona nova funcionalidade'`
-4. Push para a branch: `git push origin feature/nova-funcionalidade`
-5. Abra um Pull Request
-
  — Feito com ❤️ e TypeScript
+
+Gabrielly Rodrigues Carneiro Silva / 01797929
