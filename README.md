@@ -102,4 +102,4 @@ O projeto usa um tema dark luxury com as seguintes variáveis CSS:
 ```
  — Feito com ❤️ e TypeScript
 
-Gabrielly Rodrigues Carneiro Silva / 01797929
+## Gabrielly Rodrigues Carneiro Silva / 01797929
